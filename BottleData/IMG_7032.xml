@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pic</folder>
+	<filename>IMG_7032.JPG</filename>
+	<path>C:\Users\Francis\Desktop\test_pic\IMG_7032.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>144</ymin>
+			<xmax>610</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
