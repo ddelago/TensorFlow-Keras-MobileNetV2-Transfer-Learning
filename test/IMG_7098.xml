@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_7098.JPG</filename>
+	<path>C:\Users\ddela\Desktop\Projects\Machine-Learning\TensorFlow-Keras-MobileNetV2-Transfer-Learning\test\IMG_7098.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>135</ymin>
+			<xmax>414</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
