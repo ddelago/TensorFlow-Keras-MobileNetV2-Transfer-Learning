@@ -47,5 +47,7 @@
 11. Train the model with the updated parameters of your model in the file.
     - `python 5_train_model.py`
     - You may have to run this multiples times to completely finish training.
+    - You can use tensorboard to see how well training went.
+    - `tensorboard --logdir=.`
 12. Create an inference graph to use for training.
     - `python 6_export_graph.py`
