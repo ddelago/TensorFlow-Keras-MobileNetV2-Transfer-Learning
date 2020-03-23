@@ -1,5 +1,5 @@
 # TensorFlow-Keras-MobileNetV2-Transfer-Learning
-https://mc.ai/training-your-object-detection-model-on-tensorflow-part-2/
+Followed this tutorial https://mc.ai/training-your-object-detection-model-on-tensorflow-part-2/. Using TensorFlow version 1.15.0
 
 ## Steps
 1. Create dataset of images
