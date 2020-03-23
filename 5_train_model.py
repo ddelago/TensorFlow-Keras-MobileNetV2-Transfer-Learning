@@ -1,6 +1,6 @@
 import os
 
-num_steps = 1000  # 200000
+num_steps = 20000  # 200000
 num_eval_steps = 50
 batch_size = 12
 

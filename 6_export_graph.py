@@ -4,10 +4,10 @@ import os
 pipeline_file = 'ssd_mobilenet_v2_coco.config'
 
 # Output trained model directory
-out_dir = 'inference_graph'
+out_dir = 'trained_inference_graph-9034'
 
 # Last saved checkpoint in training
-checkpoint = 'trained_model/model.ckpt-1000'
+checkpoint = 'trained_model/model.ckpt-9034'
 
 os.system(
     f'''python export_inference_graph.py \
