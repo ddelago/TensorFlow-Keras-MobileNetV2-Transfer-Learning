@@ -11,7 +11,7 @@ selected_model = 'ssd_mobilenet_v2_coco_2018_03_29'
 pipeline_file = 'ssd_mobilenet_v2_coco.config'
 
 # Output trained model directory
-model_dir = 'trained_model_new'
+model_dir = 'trained_model'
 
 os.system(
   f'''python model_main.py \
